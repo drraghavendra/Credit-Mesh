@@ -1,6 +1,6 @@
-# Credit-Mesh
+¹# Credit-Mesh
+A Creditcoin-powered DePIN platform enabling communities to own, finance, operate, for example solar energy and earn from real-world infrastructure—transforming how distributed physical resources are funded, deployed, and monetized through transparent credit history.
 
-This README is designed to impress hackathon judges by being clean, professional, and technically descriptive. It emphasizes the **DePIN** aspect and the specific integration with **Creditcoin**.
 
 ---
 
